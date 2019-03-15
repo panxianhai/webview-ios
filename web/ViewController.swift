@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let hey =  "https://www.r10.net"
+        let hey =  "https://www.erkankavas.com"
         
         webView.load(URLRequest(url: URL(string: hey)!))
         // Do any additional setup after loading the view, typically from a nib.
